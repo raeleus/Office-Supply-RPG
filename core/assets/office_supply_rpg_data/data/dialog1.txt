@@ -1,0 +1,4 @@
+<right><player>, it’s time to submit our report to the boss. Since you hold the lowest rank of all of us, it’s your job to take it up there.
+<left>...
+<right>The way is dangerous. Take this <office supply>. Watch out for wild office supplies!
+<bonus>

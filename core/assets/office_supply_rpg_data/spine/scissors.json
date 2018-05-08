@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"dAUVt8mmMEp981MslaYJpSHGi+8","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"scissors","bone":"root","attachment":"scissors"}],"skins":{"default":{"scissors":{"scissors":{"width":111,"height":30}}}},"animations":{"animation":{}}}

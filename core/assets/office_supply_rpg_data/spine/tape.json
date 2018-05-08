@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"JgG+kqGUNzk31ccDzMudnBNQ8SM","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"tape","bone":"root","attachment":"tape"}],"skins":{"default":{"tape":{"tape":{"width":62,"height":33}}}},"animations":{"animation":{}}}

@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"ys5qCOekj4ZQ52usYm2sgpMDQmY","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"rubber-band","bone":"root","attachment":"rubber-band"}],"skins":{"default":{"rubber-band":{"rubber-band":{"width":45,"height":21}}}},"animations":{"animation":{}}}

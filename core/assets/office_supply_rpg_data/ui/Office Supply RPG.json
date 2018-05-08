@@ -1,0 +1,134 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font: {
+		file: font-export.fnt
+	}
+	small: {
+		file: font-small-export.fnt
+	}
+	story: {
+		file: font-story-export.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	black: {
+		r: 0
+		g: 0
+		b: 0
+		a: 1
+	}
+	blue: {
+		r: 0
+		g: 0
+		b: 1
+		a: 1
+	}
+	disabled: {
+		r: 0.29666665
+		g: 0.29666665
+		b: 0.29666665
+		a: 1
+	}
+	red: {
+		r: 1
+		g: 0
+		b: 0
+		a: 1
+	}
+	selection: {
+		r: 0
+		g: 0.9684446
+		b: 1
+		a: 1
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	selection: {
+		name: white
+		color: selection
+	}
+	button-disabled: {
+		name: button
+		color: disabled
+	}
+	black: {
+		name: white
+		color: black
+	}
+}
+com.ray3k.officesupplyrpg.ScrollingTiledDrawable: {
+	default: {
+		minWidth: 0
+		minHeight: 0
+	}
+	bg-tile-tiled: {
+		minWidth: 42
+		minHeight: 42
+		region: bg-tile
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font
+		fontColor: black
+	}
+	small: {
+		font: small
+		fontColor: black
+	}
+	story: {
+		font: story
+	}
+	health: {
+		font: font
+		fontColor: red
+	}
+	magic: {
+		font: font
+		fontColor: blue
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: font
+		fontColor: black
+		up: button
+		down: button-pressed
+		disabled: button-disabled
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: {
+		font: font
+		fontColor: black
+		background: textfield
+		cursor: cursor
+		selection: selection
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		background: window
+		titleFont: font
+	}
+	battle: {
+		background: white
+		titleFont: font
+	}
+	credits: {
+		background: black
+		titleFont: font
+	}
+}
+}

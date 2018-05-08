@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"cHl5YVSnS7zu4vC7vQTeE+nLjkQ","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"trash","bone":"root","attachment":"trash"}],"skins":{"default":{"trash":{"trash":{"width":83,"height":85}}}},"animations":{"animation":{}}}

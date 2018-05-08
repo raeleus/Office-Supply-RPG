@@ -1,0 +1,4 @@
+<right>Oh, hello!
+<left>...
+<right>I’m sorry. Were you expecting the boss? But he’s in another building right now!
+<gameover>

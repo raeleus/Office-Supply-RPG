@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"iGkslJfkJzNcxlywVtANsGUZyF4","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"stairs-enter","bone":"root","attachment":"stairs-enter"}],"skins":{"default":{"stairs-enter":{"stairs-enter":{"width":156,"height":160}}}},"animations":{"animation":{}}}

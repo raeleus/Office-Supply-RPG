@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"Ff4ox4xdkFsmY5X2DHQxmlKFWFY","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"camera","bone":"root","attachment":"camera"}],"skins":{"default":{"camera":{"camera":{"width":74,"height":57}}}},"animations":{"animation":{}}}

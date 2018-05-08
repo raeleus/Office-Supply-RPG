@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"Skt5McOK443f+lwpLSkbUXXEHJw","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"pillar-3","bone":"root","attachment":"pillar-3"}],"skins":{"default":{"pillar-3":{"pillar-3":{"width":72,"height":72}}}},"animations":{"animation":{}}}

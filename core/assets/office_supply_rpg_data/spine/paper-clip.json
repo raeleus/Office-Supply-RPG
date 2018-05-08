@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"JnNPtr+68BeiqNqVz8sDMlLWqTs","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"paper-clip","bone":"root","attachment":"paper-clip"}],"skins":{"default":{"paper-clip":{"paper-clip":{"width":41,"height":25}}}},"animations":{"animation":{}}}

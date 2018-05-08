@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"9w+VHJFf1hM4OHzV+ZCV5xjaasc","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"chair","bone":"root","attachment":"chair"}],"skins":{"default":{"chair":{"chair":{"width":84,"height":77}}}},"animations":{"animation":{}}}

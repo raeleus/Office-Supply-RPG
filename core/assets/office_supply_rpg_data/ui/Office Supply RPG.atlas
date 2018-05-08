@@ -1,0 +1,155 @@
+
+Office Supply RPG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-tile
+  rotate: false
+  xy: 824, 926
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 824, 970
+  size: 43, 32
+  split: 9, 9, 9, 10
+  pad: 5, 5, 5, 6
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 726, 797
+  size: 43, 32
+  split: 9, 9, 10, 9
+  pad: 5, 5, 6, 5
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+continued
+  rotate: false
+  xy: 1, 911
+  size: 620, 91
+  orig: 620, 91
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 1, 1
+  size: 15, 3
+  split: 14, 0, 0, 2
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 200, 429
+  size: 155, 156
+  orig: 155, 156
+  offset: 0, 0
+  index: -1
+font-small-export
+  rotate: false
+  xy: 726, 906
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+font-story-export
+  rotate: false
+  xy: 357, 458
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 587
+  size: 491, 121
+  orig: 491, 121
+  offset: 0, 0
+  index: -1
+logo2
+  rotate: false
+  xy: 1, 710
+  size: 601, 199
+  orig: 601, 199
+  offset: 0, 0
+  index: -1
+paper-clip-battle
+  rotate: false
+  xy: 618, 586
+  size: 72, 156
+  orig: 72, 156
+  offset: 0, 0
+  index: -1
+player-battle
+  rotate: false
+  xy: 1, 6
+  size: 141, 235
+  orig: 141, 235
+  offset: 0, 0
+  index: -1
+rubber-band-battle
+  rotate: false
+  xy: 494, 556
+  size: 122, 152
+  orig: 122, 152
+  offset: 0, 0
+  index: -1
+scissors-battle
+  rotate: false
+  xy: 144, 8
+  size: 125, 233
+  orig: 125, 233
+  offset: 0, 0
+  index: -1
+stapler-battle
+  rotate: false
+  xy: 1, 243
+  size: 195, 171
+  orig: 195, 171
+  offset: 0, 0
+  index: -1
+tape-battle
+  rotate: false
+  xy: 1, 416
+  size: 197, 169
+  orig: 197, 169
+  offset: 0, 0
+  index: -1
+textfield
+  rotate: false
+  xy: 486, 568
+  size: 6, 17
+  split: 2, 2, 0, 2
+  pad: 2, 2, 0, 4
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+villain-battle
+  rotate: false
+  xy: 623, 744
+  size: 101, 258
+  orig: 101, 258
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 357, 455
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 726, 831
+  size: 80, 73
+  split: 26, 26, 28, 26
+  pad: 12, 12, 12, 13
+  orig: 80, 73
+  offset: 0, 0
+  index: -1

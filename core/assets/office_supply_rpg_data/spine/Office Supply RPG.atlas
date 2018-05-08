@@ -1,0 +1,370 @@
+
+Office Supply RPG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-1
+  rotate: false
+  xy: 225, 239
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+arm-2
+  rotate: false
+  xy: 248, 239
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+arm-3
+  rotate: false
+  xy: 271, 239
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 271, 239
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+body-1
+  rotate: false
+  xy: 225, 378
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+body-2
+  rotate: false
+  xy: 225, 342
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+body-3
+  rotate: false
+  xy: 225, 306
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+cabinet-1
+  rotate: false
+  xy: 385, 609
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+cabinet-2
+  rotate: false
+  xy: 897, 950
+  size: 126, 73
+  orig: 126, 73
+  offset: 0, 0
+  index: -1
+camera
+  rotate: false
+  xy: 299, 474
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+carpet-1
+  rotate: false
+  xy: 1, 685
+  size: 251, 338
+  orig: 251, 338
+  offset: 0, 0
+  index: -1
+carpet-2
+  rotate: false
+  xy: 254, 687
+  size: 253, 336
+  orig: 253, 336
+  offset: 0, 0
+  index: -1
+chair
+  rotate: false
+  xy: 299, 608
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+cooler
+  rotate: false
+  xy: 225, 599
+  size: 72, 84
+  orig: 72, 84
+  offset: 0, 0
+  index: -1
+copier
+  rotate: false
+  xy: 733, 769
+  size: 176, 90
+  orig: 176, 90
+  offset: 0, 0
+  index: -1
+desk-1
+  rotate: false
+  xy: 711, 668
+  size: 192, 99
+  orig: 192, 99
+  offset: 0, 0
+  index: -1
+desk-2
+  rotate: false
+  xy: 159, 136
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+desk-3
+  rotate: false
+  xy: 509, 694
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+foot-1
+  rotate: false
+  xy: 711, 781
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+foot-2
+  rotate: false
+  xy: 711, 781
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+foot-3
+  rotate: false
+  xy: 711, 781
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+intro
+  rotate: false
+  xy: 711, 781
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+hand-1
+  rotate: false
+  xy: 299, 449
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+hand-2
+  rotate: false
+  xy: 299, 449
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+hand-3
+  rotate: false
+  xy: 299, 449
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+outro
+  rotate: false
+  xy: 299, 449
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+head-1
+  rotate: false
+  xy: 982, 887
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+head-2
+  rotate: false
+  xy: 982, 887
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+villain
+  rotate: false
+  xy: 982, 887
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+leg-2
+  rotate: false
+  xy: 461, 615
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+leg-1
+  rotate: false
+  xy: 461, 615
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+leg-3
+  rotate: false
+  xy: 303, 413
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+paper-clip
+  rotate: false
+  xy: 982, 923
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+pillar-1
+  rotate: false
+  xy: 75, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+pillar-2
+  rotate: false
+  xy: 1, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+pillar-3
+  rotate: false
+  xy: 149, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+plant
+  rotate: false
+  xy: 911, 776
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+rubber-band
+  rotate: false
+  xy: 159, 81
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+scissors
+  rotate: false
+  xy: 159, 104
+  size: 111, 30
+  orig: 111, 30
+  offset: 0, 0
+  index: -1
+secretary
+  rotate: false
+  xy: 461, 651
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+head-3
+  rotate: false
+  xy: 461, 651
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+stairs-enter
+  rotate: false
+  xy: 1, 75
+  size: 156, 160
+  orig: 156, 160
+  offset: 0, 0
+  index: -1
+stairs-exit
+  rotate: false
+  xy: 733, 861
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+stapler
+  rotate: false
+  xy: 225, 414
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+tape
+  rotate: false
+  xy: 225, 271
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tile-1
+  rotate: false
+  xy: 1, 461
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tile-2
+  rotate: false
+  xy: 509, 801
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tile-3
+  rotate: false
+  xy: 1, 237
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+trash
+  rotate: false
+  xy: 897, 863
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+wall-1
+  rotate: false
+  xy: 225, 524
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+wall-2
+  rotate: false
+  xy: 299, 533
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+wall-3
+  rotate: false
+  xy: 225, 449
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1

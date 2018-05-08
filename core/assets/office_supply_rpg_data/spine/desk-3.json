@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"fP8qSnndCDw6Tb53JNVe9eEo4KY","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"desk-3","bone":"root","attachment":"desk-3"}],"skins":{"default":{"desk-3":{"desk-3":{"width":200,"height":105}}}},"animations":{"animation":{}}}

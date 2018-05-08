@@ -1,0 +1,6 @@
+<right>Hah hah hah <player>, it is I, <enemy>. Your arch rival in the office! You must wonder why I am here blocking your path to the boss.
+<left>...
+<right>It’s true! I intend to steal your report and claim glory for myself. Did it not occur to you that I command all of the evil office suplies in the building?
+<right>I will take your job and, soon enough, become the boss of the entire company!
+<laugh><right>Mwuahahahaa! HAVE AT YOU!
+<battle>

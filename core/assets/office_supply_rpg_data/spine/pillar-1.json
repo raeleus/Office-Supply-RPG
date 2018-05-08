@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"+/kFPOpFQCgLgaWrOplUkvDxF4k","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"pillar-1","bone":"root","attachment":"pillar-1"}],"skins":{"default":{"pillar-1":{"pillar-1":{"width":72,"height":72}}}},"animations":{"animation":{}}}

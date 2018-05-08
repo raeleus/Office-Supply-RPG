@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"N0Jl8FN5dJY8elLms9eX3RgnYCE","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"cooler","bone":"root","attachment":"cooler"}],"skins":{"default":{"cooler":{"cooler":{"width":72,"height":84}}}},"animations":{"animation":{}}}

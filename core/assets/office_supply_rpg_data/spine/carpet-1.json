@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"xc3mm2VL2A4bmJkitqmYnLta2FI","spine":"3.7.15-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"carpet-1","bone":"root","attachment":"carpet-1"}],"skins":{"default":{"carpet-1":{"carpet-1":{"width":251,"height":338}}}},"animations":{"animation":{}}}
